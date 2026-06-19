@@ -1,4 +1,4 @@
-package com.github.NOTZERO-0907;
+package com.github.notzero0907;
 
 public class Md3Button {
     public String getStyle() {
